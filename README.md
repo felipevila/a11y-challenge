@@ -10,3 +10,5 @@ The goal of this App is to be **accessible** with only the **keyboard**.
 - When the user action to find tickets the Form must to validation of fields.
 - Show errors.
 - show modal when the form has no errors with the message "Send Successful".
+
+![alt text](https://cdn.dribbble.com/users/321037/screenshots/1162293/search_form6_eng_800x600.jpg)
